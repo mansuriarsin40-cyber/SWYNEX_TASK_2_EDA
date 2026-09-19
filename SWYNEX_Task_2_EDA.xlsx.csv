@@ -1,0 +1,23 @@
+titanic data analysis,
+,
+gender distribution,
+female,36%
+male,64%
+,
+passenger class distribution,
+1st class,26%
+2nd class,22%
+3rd class,52%
+,
+age analysis,
+average age,27 years
+median age,27 years
+age range,0-76 years
+,
+fare analysis,
+average fare,35.63
+median fare,14.45
+maximum fare512.33,512.33
+,
+anomaly identified,
+"the maximum fare of 512.33 is substantially higher than the median fare of 14.45, indicating an unusually high fare value.",
